@@ -1,1 +1,1 @@
-#Estadistica No Parametrica
+#Non Parametric Statistcs
